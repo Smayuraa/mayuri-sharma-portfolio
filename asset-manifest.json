@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/3D_Portfolio/static/css/main.58a0c615.css",
-    "main.js": "/3D_Portfolio/static/js/main.75db0d7e.js",
-    "static/media/LNE.png": "/3D_Portfolio/static/media/LNE.24a935f615136189a759.png",
-    "static/media/HeroImage.jpg": "/3D_Portfolio/static/media/HeroImage.27d56ef5ba5d52a1d400.jpg",
-    "index.html": "/3D_Portfolio/index.html",
-    "main.58a0c615.css.map": "/3D_Portfolio/static/css/main.58a0c615.css.map",
-    "main.75db0d7e.js.map": "/3D_Portfolio/static/js/main.75db0d7e.js.map"
+    "main.css": "/mayuri-sharma-resume/static/css/main.58a0c615.css",
+    "main.js": "/mayuri-sharma-resume/static/js/main.3bbdc231.js",
+    "static/media/LNE.png": "/mayuri-sharma-resume/static/media/LNE.24a935f615136189a759.png",
+    "static/media/HeroImage.jpg": "/mayuri-sharma-resume/static/media/HeroImage.27d56ef5ba5d52a1d400.jpg",
+    "index.html": "/mayuri-sharma-resume/index.html",
+    "main.58a0c615.css.map": "/mayuri-sharma-resume/static/css/main.58a0c615.css.map",
+    "main.3bbdc231.js.map": "/mayuri-sharma-resume/static/js/main.3bbdc231.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.75db0d7e.js"
+    "static/js/main.3bbdc231.js"
   ]
 }
