@@ -35,6 +35,7 @@ const Wrapper = styled.div`
 `;
 
 function App() {
+ const name = "Mayuri Sharma";
   return (
     <ThemeProvider theme={darkTheme}>
       <BrowserRouter>
@@ -42,7 +43,7 @@ function App() {
         <Body>
           {/* <StartCanvas /> */}
           <div>
-            <Hero />
+            <Hero name={name} />
             <Wrapper>
               <Skills />
               <Experience />
